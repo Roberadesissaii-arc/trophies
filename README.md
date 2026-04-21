@@ -1,165 +1,130 @@
-# 🏆 Trophies
+# Trophies
 
-### A New Era of Fantasy Sports
+## Overview
 
-Trophies is a next-generation fantasy sports platform designed to transform how leagues are experienced. Instead of focusing only on stats and scores, Trophies brings **immersion, storytelling, and legacy-building** to the center of the game.
+Trophies is a next-generation fantasy sports platform focused on immersion, storytelling, and long-term engagement. While traditional platforms emphasize statistics and live data, Trophies is designed to deliver a more meaningful and interactive league experience.
 
-Built for the new generation of players, Trophies turns every league into a living experience — where every matchup matters, every decision shapes your story, and every season builds your legacy.
-
----
-
-## 🚀 Vision
-
-Fantasy sports today are primarily data-driven. Platforms like Sleeper focus on delivering stats, updates, and traditional gameplay mechanics.
-
-Trophies flips that model.
-
-We believe fantasy sports should feel like:
-
-* A **competitive experience**
-* A **social environment**
-* A **story that evolves over time**
-
-Our goal is simple:
-
-> Build a platform where players don’t just play fantasy — they **build a legacy**.
+The platform is built for modern users who play fantasy sports within friend groups and communities, where competition, identity, and shared experiences matter just as much as performance.
 
 ---
 
-## 🎯 Core Philosophy
+## Vision
 
-**Traditional Fantasy Platforms**
+Fantasy sports platforms today primarily function as data tools. Applications like Sleeper provide strong statistical tracking and live updates, but they offer limited depth in terms of user experience and long-term engagement.
 
-* 1A: Stats & Live Data
-* 1B: User Experience
+Trophies aims to redefine this space by prioritizing:
+
+* Immersion
+* Social interaction
+* Narrative-driven experiences
+* Long-term legacy building
+
+The goal is to create a system where each league evolves over time, and each user builds a persistent identity within it.
+
+---
+
+## Core Philosophy
+
+**Traditional Platforms**
+
+* Primary focus: statistics and live updates
+* Secondary focus: user experience
 
 **Trophies**
 
-* 1A: User Immersion & Experience
-* 1B: Stats, Data & Live Updates
+* Primary focus: user experience and immersion
+* Secondary focus: statistics and live data
 
-We are not removing stats — we are **reframing their purpose**.
+Trophies does not replace traditional fantasy mechanics—it enhances them by giving context and meaning to user activity.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 📊 Real-Time Gameplay
+### Real-Time Data
 
-* Live scoring and real-time updates
-* Player stats, rankings, and analytics
+* Live scoring and game updates
+* Player statistics and rankings
 * Reliable data integration
 
-### 🧠 AI-Powered Experience
+### AI-Driven Systems
 
-* AI-generated league storylines
-* Dynamic narratives based on matchups and performance
-* Smart insights and recommendations ("Ask Guru")
+* Automated league storylines based on activity and results
+* Intelligent insights and recommendations
+* “Ask Guru” advisory system for user decisions
 
-### 🏆 Legacy System
+### Legacy and Progression
 
 * Persistent league history
-* Player progression and leveling
-* Achievements, milestones, and trophies
+* Player progression systems
+* Achievements, milestones, and trophy tracking
 
-### 👥 Social-First Design
+### Social Experience
 
-* Built specifically for **friend groups and communities**
-* League-based identity and rivalries
-* Shared experiences beyond just matchups
+* Designed specifically for friend groups
+* League-based interaction and identity
+* Rivalries and long-term competition
 
-### 🎮 Immersive League Environment
+### Immersive League Design
 
-* League “programs” and identities
-* Story-driven seasons
-* Enhanced competition through narrative and progression
-
----
-
-## 🧩 Problem We’re Solving
-
-Current fantasy platforms are:
-
-* Transactional
-* Stat-heavy
-* Lacking emotional engagement
-
-They track performance — but they don’t build **meaning**.
-
-Trophies introduces:
-
-* Storylines
-* Rivalries
-* Long-term identity
-
-Turning fantasy leagues into something players actually **care about long-term**.
+* Structured league environments
+* Narrative-driven seasons
+* Enhanced engagement through progression and history
 
 ---
 
-## 💡 Why Trophies?
+## Problem Statement
 
-Because fantasy sports should feel like:
+Existing fantasy platforms are effective at tracking performance, but they often lack emotional engagement and long-term meaning.
 
-* A game
-* A community
-* A story
+Users participate in leagues, but:
 
-Not just a spreadsheet.
+* There is little sense of continuity across seasons
+* Rivalries and history are not preserved in meaningful ways
+* The experience is largely transactional
+
+Trophies addresses this by introducing systems that emphasize identity, progression, and storytelling.
 
 ---
 
-## 🛠️ Tech Stack (Planned)
+## Technology Stack
 
 **Frontend**
 
-* React.js (Modern UI & interactive experience)
+* React.js
 
 **Backend**
 
-* Node.js + Express (API layer)
+* Node.js with Express
 
 **Database**
 
 * Supabase (PostgreSQL)
 
-**Data Sources**
+**Data Integration**
 
 * Sports APIs (e.g., TheSportsDB)
 
 ---
 
-## 📈 Future Direction
+## Development Status
 
-* Advanced AI storytelling engine
-* Cross-league global rankings
-* Mobile-first application
-* Monetization features (premium insights, “Ask Guru”, etc.)
-* Creator and content integrations
+The project is currently in the early development phase, focusing on architecture design and initial prototypes.
 
 ---
 
-## 🤝 Contributing
+## Future Direction
 
-We’re currently in early development and prototyping.
-
-If you’re interested in contributing, collaborating, or helping shape the future of fantasy sports, feel free to reach out or submit ideas.
-
----
-
-## ⚡ Status
-
-🚧 In Development — Building core systems and initial prototypes.
+* Expanded AI-driven storytelling systems
+* Cross-league analytics and rankings
+* Mobile-first experience
+* Monetization features such as premium insights
+* Integration of content and social features
 
 ---
 
-## 🧠 Final Thought
+## Conclusion
 
-Trophies isn’t just about winning a league.
+Trophies is designed to move fantasy sports beyond a purely statistical experience. By combining real-time data with immersive systems and long-term progression, the platform aims to create a more engaging and meaningful environment for users.
 
-It’s about:
-
-* Building history
-* Creating rivalries
-* Leaving a legacy
-
-**This is fantasy sports, evolved.**
+The focus is not only on who wins, but on how the journey unfolds over time.
